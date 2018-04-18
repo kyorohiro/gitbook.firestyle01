@@ -2,7 +2,7 @@
 
 火の型 0巻 (https://firebook.firefirestyle.net/) の続き
 
-![](/assets/notice00.pn](/assets/notice00.png)
+![](/assets/notice00.png](/assets/notice00.png)
 
 今、あなたは、世界一のプログラマーになりました。
 
@@ -21,9 +21,9 @@
 何を提供してみたいですか?
 
 
-![](/assets/notice00.pn](/assets/notice01.png)
-![](/assets/notice00.pn](/assets/notice02.png)
-![](/assets/notice00.pn](/assets/notice03.png)
-![](/assets/notice00.pn](/assets/notice04.png)
+![](/assets/notice00.png](/assets/notice01.png)
+![](/assets/notice00.png](/assets/notice02.png)
+![](/assets/notice00.png](/assets/notice03.png)
+![](/assets/notice00.png](/assets/notice04.png)
 
 
